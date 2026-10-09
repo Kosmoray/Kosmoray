@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://github.com/Kosmoray/dayan-agent-skills">
-    <img src="https://raw.githubusercontent.com/Kosmoray/dayan-agent-skills/main/assets/dayan-mark.svg" width="112" alt="Dayan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kosmoray/dayan-agent-skills/main/assets/dayan-mark-on-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kosmoray/dayan-agent-skills/main/assets/dayan-mark.svg">
+      <img src="https://raw.githubusercontent.com/Kosmoray/dayan-agent-skills/main/assets/dayan-mark.svg" width="112" alt="Dayan">
+    </picture>
   </a>
 </p>
 
